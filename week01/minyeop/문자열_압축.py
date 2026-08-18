@@ -1,4 +1,5 @@
 '''
+26.08.17
 프로그래머스 문자열/투 포인터 문제
 문자열 압축
 https://school.programmers.co.kr/learn/courses/30/lessons/60057
