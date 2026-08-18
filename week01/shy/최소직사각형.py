@@ -8,3 +8,6 @@ def solution(sizes):
     width = max(i[1] for i in newsizes)
     length = max(i[0] for i in newsizes)
     return width*length
+
+
+# return max(max(x) for x in sizes) * max(min(x) for x in sizes)
