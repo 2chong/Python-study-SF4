@@ -16,7 +16,7 @@
 ```
 coding-test-study/
 ├── week01/
-│   ├── 총/
+│   ├── 총/ <- RIP . . . .
 │   └── 우린/
 ├── week02/
 │   ├── 총/
@@ -28,7 +28,7 @@ coding-test-study/
 
 ```
 - 우린
-- 총
+- 총 <- RIP . . . . .
 - 민엽
 - shy
 - yeram
