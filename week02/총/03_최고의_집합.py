@@ -2,6 +2,11 @@
 
 https://school.programmers.co.kr/learn/courses/30/lessons/12938
 
+생각해보니까
+
+[div] * (n - rest) + [div + 1] * rest
+그냥 리스트 곱셈해서 리턴하는 게 더 예쁠듯
+
 자연수 n 개로 이루어진 중복 집합(multi set, 편의상 이후에는 "집합"으로 통칭) 중에 다음 두 조건을 만족하는 집합을 최고의 집합이라고 합니다.
 
 각 원소의 합이 S가 되는 수의 집합
@@ -17,6 +22,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12938
 만약 최고의 집합이 존재하지 않는 경우에 크기가 1인 1차원 배열(list, vector) 에 -1 을 채워서 return 해주세요.
 자연수의 개수 n은 1 이상 10,000 이하의 자연수입니다.
 모든 원소들의 합 s는 1 이상, 100,000,000 이하의 자연수입니다.
+
 '''
 
 
