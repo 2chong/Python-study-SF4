@@ -1,3 +1,9 @@
+'''
+프로그래머스 - 정수 삼각형 / DP
+- https://school.programmers.co.kr/learn/courses/30/lessons/43105
+'''
+
+
 def solution(triangle):
     n = len(triangle)
     dp = [[0 for _ in range(n)] for _ in range(n)]
